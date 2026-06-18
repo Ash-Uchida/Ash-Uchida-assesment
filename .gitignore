@@ -4,6 +4,11 @@ dist-ssr
 *.local
 .DS_Store
 
+# Build / TypeScript artifacts
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+
 # Logs
 logs
 *.log
